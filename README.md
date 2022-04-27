@@ -1,0 +1,6 @@
+# Call For Propoosals
+
+## Talks
+
+- []()
+- []()
