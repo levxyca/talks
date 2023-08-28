@@ -1,4 +1,4 @@
-# Leticia's @levxya Talks (palestras) 🎤
+# Leticia's @levxyca Talks (palestras) 🎤
 
 - [Nasce uma estrela: minha jornada até a conquista do GitHub Star](talks/nasce-uma-estrela.md)
 - [Como live coding pode te ajudar sendo uma pessoa iniciante na área de TI](talks/como-live-coding-pode-te-ajudar.md)
