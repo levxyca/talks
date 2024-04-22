@@ -2,6 +2,12 @@
 
 ## Short
 
+Tech Community Manager, Developer Relations & Criadora de conteúdo de tecnologia e programação @levxyca
+
+Leticia, também conhecida como levxyca, é Tech Community Manager & Dev, apaixonada por tecnologia, comunicação e educação, busca constantemente aprender e compartilhar conhecimento através das mídias sociais e das comunidades tech.
+
+----
+
 Desenvolvedora de software, criadora de conteúdo e cofundadora da @feminis_tech. Apaixonada por comunicação e tecnologia, buscando aprender, compartilhar e ensinar cada vez mais através de lives, palestras, eventos, vídeos, artigos, podcasts e mídias sociais.
 
 ## Medium
